@@ -1,2 +1,3 @@
-# timesurfer
-A Focus Timing App
+# Timesurfer
+
+A Focus Timer App
