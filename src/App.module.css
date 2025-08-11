@@ -1,6 +1,6 @@
-.container {
-	background-color: #ba4949;
-	min-height: 100vh;
-	width: 100vw;
-	box-sizing: border-box;
+.app-container {
+  background-color: #f16969;
+  min-height: 100vh;
+  width: 100vw;
+  box-sizing: border-box;
 }
