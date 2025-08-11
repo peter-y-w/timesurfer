@@ -1,3 +1,7 @@
 .timer-card {
     background-color: #d65353;
 }
+
+.timer-display {
+    color: white;
+}
