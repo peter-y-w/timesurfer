@@ -1,5 +1,7 @@
 .timer-card {
     background-color: #d65353;
+    width: 50rem;
+    height: 30rem;
 }
 
 .timer-display {
